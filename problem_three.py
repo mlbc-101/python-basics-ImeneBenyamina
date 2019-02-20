@@ -1,0 +1,1 @@
+"""Write a program that solves second degree equation of the form ax^2 +bx + c = 0."""
